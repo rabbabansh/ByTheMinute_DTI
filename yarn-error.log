@@ -1,0 +1,72 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn install
+
+PATH: 
+  /home/syed/.asdf/shims:/home/syed/.asdf/bin:/home/syed/kde/src/kdesrc-build:/home/syed/.cargo/bin:/home/syed/.emacs.d/bin:/home/syed/go/bin:/home/syed/.pub-cache/bin:/home/syed/.local/share/solana/install/active_release/bin:/home/syed/.avm/bin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  19.9.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/home/syed/.cache/yarn/v6/npm-ignore-4.0.6-750e3db5862087b4737ebac8207ffd1ef27b25fc-integrity/node_modules/ignore/CHANGELOG.md' -> '/home/syed/dev/test/Amazone_Clone_ReactJs/node_modules/@eslint/eslintrc/node_modules/ignore/CHANGELOG.md'
+
+npm manifest: 
+  {
+    "name": "amazone_clone",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@material-ui/core": "^4.12.4",
+      "@material-ui/icons": "^4.11.3",
+      "@stripe/react-stripe-js": "^1.16.5",
+      "@stripe/stripe-js": "^1.52.1",
+      "@testing-library/jest-dom": "^5.16.5",
+      "@testing-library/react": "^11.2.7",
+      "@testing-library/user-event": "^12.8.3",
+      "axios": "^0.21.4",
+      "firebase": "^8.10.1",
+      "moment": "^2.29.4",
+      "react": "^17.0.2",
+      "react-currency-format": "^1.1.0",
+      "react-dom": "^17.0.2",
+      "react-router-dom": "^5.3.4",
+      "react-scripts": "4.0.3",
+      "web-vitals": "^1.1.2"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

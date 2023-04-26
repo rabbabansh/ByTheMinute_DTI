@@ -1,28 +1,35 @@
-# Installation Steps
+
+# Amazon - Clone using ReactJs
+
+**Project Link** - ***https://alanbinu-ecommerce.web.app/***
+
+## Tech We Used
+
+- ReactJs
+- Firebase Hosting
+- Firebase Auth
+- Firebase Storage
+- React-Dom
+- React Redux
+- Stripe payment
+
+## Features
+
+- Login and Logout
+- Add to cart
+- Remove from cart
+- Payment 
+- Neat and clean UI
+
+## Steps to run in your machine
+
+#### Run the following commands
+```
+npm i
+npm run start
+```
 
 
 
-## Using npm
 
-Run commands
-
-1) ```npm install```
-
-
-2) ```npm run dev```
-
-
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+#### Hope you liked this project, dont forget to ⭐ the repo.
