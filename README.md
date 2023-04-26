@@ -1,7 +1,6 @@
+# ByTheMinute - Ecommerce Grocery Store
 
-# Amazon - Clone using ReactJs
-
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
+**DTI PROJECT BY TEAM 06 BATCH 09**
 
 ## Tech We Used
 
@@ -18,18 +17,15 @@
 - Login and Logout
 - Add to cart
 - Remove from cart
-- Payment 
+- Payment
 - Neat and clean UI
 
 ## Steps to run in your machine
 
 #### Run the following commands
+
 ```
 npm i
 npm run start
+``
 ```
-
-
-
-
-#### Hope you liked this project, dont forget to ⭐ the repo.
