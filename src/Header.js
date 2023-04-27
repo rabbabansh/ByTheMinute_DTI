@@ -21,7 +21,7 @@ function Header() {
         <img
           className="header__logo"
           style={{ paddingBottom: 10 }}
-          src="/minute.jpg"
+          src="/minute.png"
         />
       </Link>
 
@@ -44,14 +44,14 @@ function Header() {
 
         <Link to="/orders">
           <div className="header__option">
-            <span className="header__optionLineOne">Returns</span>
-            <span className="header__optionLineTwo">& Orders</span>
+            <span className="header__optionLineOne">Your</span>
+            <span className="header__optionLineTwo"> Orders</span>
           </div>
         </Link>
 
         <div className="header__option">
           <span className="header__optionLineOne">Your</span>
-          <span className="header__optionLineTwo">Prime</span>
+          <span className="header__optionLineTwo">Minute</span>
         </div>
 
         <Link to="/checkout">
